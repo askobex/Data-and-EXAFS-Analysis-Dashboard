@@ -56,7 +56,7 @@ pip install -r Requirement.txt
 ## 📂 Repository Structure
 
 * **`BS.py`**: The main library containing the `XASDeglitcher` and dashboard classes.
-* **`Testing.ipynb`**: A ready-to-use template for your analysis workflow.
+* **`BS.ipynb`**: A ready-to-use template for your analysis workflow.
 * **`User Manual.pdf`**: Comprehensive guide on theory and software usage.
 * **`Requirement.txt`**: List of Python dependencies.
 
