@@ -47,7 +47,7 @@ pip install -r Requirement.txt
 2.  **Initialize Project:**
     ```python
     from BS import project_number
-    data_path = project_number(project_id="1234", session="1")
+    data_path = project_number(project_id="1234", session=None)
     ```
 3.  **Launch Dashboard:** Execute the dashboard cells to start selecting files, deglitching, and performing EXAFS analysis.
 
